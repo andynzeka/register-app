@@ -33,7 +33,7 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Happy Learning. See You Again from CruzeOps. </h1>
+   <h1> Happy Learning. See You Again. </h1>
    <br>
    <h1> From CruzeOps. </h1>
 </form>
