@@ -99,7 +99,7 @@ pipeline {
                 }
             }
        }
-    }
+    
 
 //     post {
 //        failure {
@@ -112,5 +112,5 @@ pipeline {
 //                      subject: "${env.JOB_NAME} - Build # ${env.BUILD_NUMBER} - Successful", 
 //                      mimeType: 'text/html',to: "andynze4@gmail.com"
 //       }      
-   }
+//    }
 }
